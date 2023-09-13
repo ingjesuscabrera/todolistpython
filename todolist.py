@@ -65,4 +65,4 @@ while True:
         print("Saliendo del programa.")
         break
     else:
-        print("Opción no válida. Por favor, seleccione una opción válida.")
+        print("Opción no válida. Por favor, seleccione una opción válida.") 
